@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       KIRANA STORE
+       <h1>KIRANA STORE</h1>
       </header>
     </div>
   );
