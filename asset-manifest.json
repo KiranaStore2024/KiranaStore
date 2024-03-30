@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KiranaStore.git/static/css/main.f855e6bc.css",
+    "main.js": "/KiranaStore.git/static/js/main.7205ea79.js",
+    "static/js/453.68d8e8d8.chunk.js": "/KiranaStore.git/static/js/453.68d8e8d8.chunk.js",
+    "static/media/logo.svg": "/KiranaStore.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KiranaStore.git/index.html",
+    "main.f855e6bc.css.map": "/KiranaStore.git/static/css/main.f855e6bc.css.map",
+    "main.7205ea79.js.map": "/KiranaStore.git/static/js/main.7205ea79.js.map",
+    "453.68d8e8d8.chunk.js.map": "/KiranaStore.git/static/js/453.68d8e8d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7205ea79.js"
+  ]
+}
