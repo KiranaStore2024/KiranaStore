@@ -1,9 +1,12 @@
 import './Store.css';
+import '../../App.css';
+import { Link } from 'react-router-dom';
 
 const Store = () => {
     return (  
         <>
-        <h5>STORE PAGE</h5>
+        <h1>STORE PAGE</h1>
+        <Link className="Link" to="/KiranaStore">⬅</Link>
         </>
     );
    }

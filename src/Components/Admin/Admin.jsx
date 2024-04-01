@@ -1,9 +1,12 @@
 import './Admin.css';
+import '../../App.css';
+import { Link } from 'react-router-dom';
 
 const Admin = () => {
     return (  
         <>
-        <h5>ADMIN PAGE</h5>
+        <h1>ADMIN PAGE</h1>
+        <Link className="Link" to="/KiranaStore">⬅</Link>
         </>
     );
    }

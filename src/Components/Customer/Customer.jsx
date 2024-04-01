@@ -1,9 +1,12 @@
 import './Customer.css';
+import '../../App.css';
+import { Link } from 'react-router-dom';
 
 const Customer = () => {
     return (  
         <>
-        <h5>CUSTOMER PAGE</h5>
+        <h1>CUSTOMER PAGE</h1>
+        <Link className="Link" to="/KiranaStore">⬅</Link>
         </>
     );
    }
