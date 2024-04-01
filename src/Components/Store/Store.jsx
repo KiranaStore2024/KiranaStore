@@ -7,6 +7,7 @@ const Store = () => {
         <>
         <h1>STORE PAGE</h1>
         <Link className="Link" to="/KiranaStore">⬅</Link>
+        <p>Ankur</p>
         </>
     );
    }
