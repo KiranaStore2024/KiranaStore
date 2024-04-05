@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KiranaStore/static/css/main.26ac6e65.css",
-    "main.js": "/KiranaStore/static/js/main.3083b7d4.js",
-    "static/js/453.68d8e8d8.chunk.js": "/KiranaStore/static/js/453.68d8e8d8.chunk.js",
+    "main.css": "/KiranaStore/static/css/main.53bdc3d3.css",
+    "main.js": "/KiranaStore/static/js/main.b839acba.js",
+    "static/js/453.642ed14c.chunk.js": "/KiranaStore/static/js/453.642ed14c.chunk.js",
     "index.html": "/KiranaStore/index.html",
-    "main.26ac6e65.css.map": "/KiranaStore/static/css/main.26ac6e65.css.map",
-    "main.3083b7d4.js.map": "/KiranaStore/static/js/main.3083b7d4.js.map",
-    "453.68d8e8d8.chunk.js.map": "/KiranaStore/static/js/453.68d8e8d8.chunk.js.map"
+    "main.53bdc3d3.css.map": "/KiranaStore/static/css/main.53bdc3d3.css.map",
+    "main.b839acba.js.map": "/KiranaStore/static/js/main.b839acba.js.map",
+    "453.642ed14c.chunk.js.map": "/KiranaStore/static/js/453.642ed14c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26ac6e65.css",
-    "static/js/main.3083b7d4.js"
+    "static/css/main.53bdc3d3.css",
+    "static/js/main.b839acba.js"
   ]
 }
