@@ -1,0 +1,33 @@
+.store button {
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+  background-color: white;
+  font-size: 1.2rem;
+  padding: 0.3rem 1rem 0.2rem;
+  margin-left: 1rem;
+}
+
+.store h1 {
+  margin: auto;
+}
+
+.store .icon {
+  font-size: 2rem;
+}
+
+.store .items_collection {
+    margin-top: 2rem;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+.store button:hover {
+  cursor: pointer;
+}

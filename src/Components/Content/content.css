@@ -1,0 +1,16 @@
+.app_body {
+  min-height: 17.6rem;
+  margin-top: 6rem;
+  padding: 5rem 7rem;
+  background-color: #AB6D02;
+}
+
+.nav_link {
+  text-decoration: none;
+  color: white;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}

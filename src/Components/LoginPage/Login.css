@@ -1,0 +1,28 @@
+.login {
+    text-align: center;
+}
+
+.login label {
+    font-size: 1.2rem;
+}
+
+.login input {
+    font-size: 1.2rem;
+    padding: 0.3rem 0.5rem;
+    outline: none;
+}
+
+.login button {
+    font-size: 1.2rem;
+    padding: 0.3rem 1rem;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.login button:hover {
+    cursor: pointer;
+}
+
+.login h2 {
+    margin-bottom: 2rem;
+}

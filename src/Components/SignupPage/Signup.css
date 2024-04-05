@@ -1,0 +1,24 @@
+.signup {
+    text-align: center;
+}
+
+.signup label {
+    font-size: 1.2rem;
+}
+
+.signup input {
+    font-size: 1.2rem;
+    padding: 0.3rem 0.5rem;
+    outline: none;
+}
+
+.signup button {
+    font-size: 1.2rem;
+    padding: 0.3rem 1rem;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.signup button:hover {
+    cursor: pointer;
+}
