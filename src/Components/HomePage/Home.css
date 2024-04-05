@@ -1,0 +1,19 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 22rem;
+}
+
+.home .home_nav_btn {
+    border: 1px solid gray;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    margin: 0 2rem;
+    background-color: white;
+}
+
+.link {
+    color: blueviolet;
+}

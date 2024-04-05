@@ -1,0 +1,47 @@
+.navbar {
+  min-height: 4rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  /* z-index: 1; */
+  background-color: #282c34;
+  color: white;
+  padding: 2rem 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.navbar h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.2rem;
+}
+
+.navbar .profile_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navbar .profile {
+  display: flex;
+  align-items: center;
+}
+
+.navbar .icon {
+  margin-right: 0.5rem;
+  font-size: 2rem;
+}
+
+.navbar .logout_btn {
+  position: absolute;
+  border: 1px solid white;
+  padding: 0.5rem 1rem;
+  top: 5.5rem;
+}
+
+.navbar .profile_box:hover {
+  cursor: pointer;
+}
